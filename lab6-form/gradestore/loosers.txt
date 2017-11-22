@@ -1,0 +1,38 @@
+soyeon;132;2;Visa
+soyeon;132;2;Visa
+soyeon;132;2;Visa
+;132;2;Visa
+;132;2;Visa
+r;r;g;Visa
+r;r;g;Visa
+r;;g;Visa
+aaa;1234;4234567890123456;Visa
+1;1;1;Visa
+soyeon;2014040737;111;Visa
+;;;
+ddd;s;112;Visa
+ff;ff;ff;Visa
+soyeon;13;11;Visa
+soyeon;13;1111;Visa
+so yeon;13;1111;Visa
+so   yeon ;13;1111;Visa
+soyeon;13;1111;Visa
+soyeon;13;1111;Visa
+so_yeon;13;1111;Visa
+so yeon;13;1111;Visa
+so  yeon;13;1111;Visa
+so   yeon;13;1111;Visa
+so yeon;13;1111;Visa
+soyeon;13;1111111111111111;Visa
+soyeon;13;1111111111111111;Visa
+soyeon;13;1111111111111111;Visa
+soyeon;13;1111111111111111;Visa
+soyeon;13;1111111111111111;Visa
+soyeon;13;1111111111111111;Visa
+soyeon;13;4111111111111111;Visa
+soyeon;13;41111111111111111;Visa
+soyeon;13;4111111111111111;Visa
+soyeon;13;41111111111111111;Visa
+soyeon;13;5111111111111111;MasterCard
+soyeon;13;5111111111111111;MasterCard
+soyeon;2014040737;4111111111111111;Visa
